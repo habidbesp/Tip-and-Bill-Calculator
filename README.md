@@ -5,7 +5,7 @@ This is a simple Tip Calculator built to help you easily calculate tips and tota
 ## Features
 
 - Calculate the tip based on the bill amount.
-- djustable tip percentage (e.g., 10%, 20%, 50%).
+- Adjustable tip percentage (e.g., 10%, 20%, 50%).
 - Display the total amount including the tip.
 - User-friendly interface.
 
