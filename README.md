@@ -1,6 +1,12 @@
-# Tip Calculator
+# Tip and Bill Calculator
 
 This is a simple Tip Calculator built to help you easily calculate tips and total amounts based on your bill.
+
+## Live Demo
+
+You can check out the live version of the Tip and Bill Calculator app deployed on Vercel by clicking the link below:
+
+[Tip and Bill Calculator - Live Demo](https://tip-and-bill-calculator.vercel.app/)
 
 ## Features
 
